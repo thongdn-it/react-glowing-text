@@ -1,0 +1,48 @@
+{
+  "name": "react-glowing-text",
+  "version": "1.0.0",
+  "description": "The `GlowingText` component is a React functional component using `framer-motion` to create a glowing text effect that reacts to mouse movement like the text \"GROK\" on x.ai.",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "pnpm build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thongdn-it/glowing-text.git"
+  },
+  "homepage": "https://github.com/thongdn-it/glowing-text#readme",
+  "keywords": [
+    "glowing",
+    "glowing-text",
+    "react-glowing-text",
+    "grok",
+    "x.ai",
+    "react",
+    "framer-motion",
+    "nextjs"
+  ],
+  "author": {
+    "name": "Thong Dang",
+    "email": "thongdn.it@gmail.com",
+    "url": "https://github.com/thongdn-it"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "framer-motion": ">=12.0.0"
+  },
+  "peerDependencies": {
+    "react": ">=18.0.0",
+    "react-dom": ">=18.0.0"
+  },
+  "devDependencies": {
+    "@types/react": ">=18.0.0",
+    "@types/react-dom": ">=18.0.0",
+    "typescript": "^5.8.2"
+  },
+  "files": [
+    "dist"
+  ]
+}
