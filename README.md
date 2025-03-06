@@ -7,6 +7,9 @@ The `GlowingText` component is a React functional component using [framer-motion
 alt="demo-react-glowing-text">
 </p>
 
+[![npm][npm_image_url]][npm_url]
+[![bundlephobia][bundlephobia_image_url]][bundlephobia_url]
+
 ## Features
 
 - Customizable text content and styles
@@ -74,10 +77,14 @@ GlowingText is developed by Thong Dang. You can contact me at thongdn.it@gmail.c
 
 If you like my project, you can [support me][buy_me_a_coffee_url] or star (like) for it.
 
-[<p align="center">
-<img src="https://media.giphy.com/media/hXMGQqJFlIQMOjpsKC/giphy.gif" alt="Glowing Text Example" style="aspect-ratio:385/405; width:200;"></p>][buy_me_a_coffee_url]
+<p align="center">
+<img src="https://media.giphy.com/media/hXMGQqJFlIQMOjpsKC/giphy.gif" alt="react-glowing-text-buy-me-a-coffee" style="aspect-ratio:385/405;" width="200"></p>
 
 [//]: # "reference links"
 [buy_me_a_coffee_image_url]: https://media.giphy.com/media/hXMGQqJFlIQMOjpsKC/giphy.gif
 [buy_me_a_coffee_url]: https://www.buymeacoffee.com/thongdn.it
+[npm_image_url]: https://img.shields.io/npm/v/react-glowing-text
+[npm_url]: https://www.npmjs.com/package/react-glowing-text
+[bundlephobia_image_url]: https://badgen.net/bundlephobia/minzip/react-glowing-text
+[bundlephobia_url]: https://bundlephobia.com/result?p=react-glowing-text
 [motion_url]: https://github.com/motiondivision/motion#readme
